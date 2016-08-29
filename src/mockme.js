@@ -1,3 +1,4 @@
+var variable = 'random';
 export function generateText() {
-  return 'random';
+  return variable;
 }
